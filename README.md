@@ -31,3 +31,16 @@ To ensure maintainability, I followed these practices:
 - **Adaptability**: Separating file paths and logic from the main program flow allows for easy updates, such as changing input sources or adding new features.
 
 These steps ensure the program remains clear and functional for future modifications or users.
+
+# README Update  
+
+## Essential Questions in Computer Science  
+
+### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?  
+Interpreting user needs requires a combination of active listening, research, and iterative feedback. By engaging with stakeholders, gathering requirements, and analyzing workflows, I can translate abstract needs into concrete features. Creating **user stories** helps by breaking down requirements into clear, actionable tasks that focus on the end-user experience. These stories serve as a guide for development, ensuring that each feature aligns with real-world use cases. They also promote prioritization, making it easier to deliver high-value functionality early in the process.  
+
+### How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?  
+My approach to development follows a structured yet adaptable methodology. I begin by gathering requirements, creating user stories, and designing system architecture. I prioritize iterative development and continuous testing to catch issues early. In my future development work, I aim to incorporate Agile practices such as **Scrum** for structured sprints and **Kanban** for workflow visualization. **Test-Driven Development (TDD)** and **Continuous Integration/Continuous Deployment (CI/CD)** will also be key practices to ensure maintainability and reliability.  
+
+### What does it mean to be a good team member in software development?  
+Being a good team member means collaborating effectively, communicating openly, and contributing to a positive development culture. It involves writing clean, well-documented code, providing constructive feedback during code reviews, and being receptive to others’ suggestions. Additionally, good team members proactively help resolve blockers, respect deadlines, and adapt to the evolving needs of a project. Ultimately, teamwork in software development is about aligning individual efforts to achieve a shared goal efficiently and effectively.  
