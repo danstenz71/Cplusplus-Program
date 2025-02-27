@@ -34,7 +34,7 @@ These steps ensure the program remains clear and functional for future modificat
 
 # README Update  
 
-## Essential Questions in Computer Science  
+## Computer Science Program 
 
 ### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?  
 Interpreting user needs requires a combination of active listening, research, and iterative feedback. By engaging with stakeholders, gathering requirements, and analyzing workflows, I can translate abstract needs into concrete features. Creating **user stories** helps by breaking down requirements into clear, actionable tasks that focus on the end-user experience. These stories serve as a guide for development, ensuring that each feature aligns with real-world use cases. They also promote prioritization, making it easier to deliver high-value functionality early in the process.  
