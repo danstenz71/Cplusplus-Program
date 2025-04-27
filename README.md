@@ -45,9 +45,10 @@ My approach to development follows a structured yet adaptable methodology. I beg
 ### What does it mean to be a good team member in software development?  
 Being a good team member means collaborating effectively, communicating openly, and contributing to a positive development culture. It involves writing clean, well-documented code, providing constructive feedback during code reviews, and being receptive to others’ suggestions. Additionally, good team members proactively help resolve blockers, respect deadlines, and adapt to the evolving needs of a project. Ultimately, teamwork in software development is about aligning individual efforts to achieve a shared goal efficiently and effectively.  
 
-README Update
+# README Update
 
 Computer Science Program
+
 Briefly summarize The Gaming Room client and their software requirements.
 The Gaming Room is a company looking to expand their successful Android game, Draw It or Lose It, to additional platforms such as iOS, Windows, and web browsers. They needed a software design that would ensure cross-platform compatibility, scalability, and consistent gameplay across all environments. The solution had to promote reusability, modularity, and long-term maintainability.
 
