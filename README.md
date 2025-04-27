@@ -44,3 +44,26 @@ My approach to development follows a structured yet adaptable methodology. I beg
 
 ### What does it mean to be a good team member in software development?  
 Being a good team member means collaborating effectively, communicating openly, and contributing to a positive development culture. It involves writing clean, well-documented code, providing constructive feedback during code reviews, and being receptive to others’ suggestions. Additionally, good team members proactively help resolve blockers, respect deadlines, and adapt to the evolving needs of a project. Ultimately, teamwork in software development is about aligning individual efforts to achieve a shared goal efficiently and effectively.  
+
+README Update
+
+Computer Science Program
+Briefly summarize The Gaming Room client and their software requirements.
+The Gaming Room is a company looking to expand their successful Android game, Draw It or Lose It, to additional platforms such as iOS, Windows, and web browsers. They needed a software design that would ensure cross-platform compatibility, scalability, and consistent gameplay across all environments. The solution had to promote reusability, modularity, and long-term maintainability.
+
+What did you do particularly well in developing this documentation?
+I clearly structured the design document to be understandable for both technical and non-technical audiences. I focused on outlining system components, identifying major classes and interactions, and providing scalable architecture suggestions. This helped communicate the project vision effectively.
+
+What about the process of working through a design document did you find helpful when developing the code?
+Writing the design document first helped me plan the structure and dependencies of the software ahead of time. It forced me to think critically about potential challenges, organize features logically, and focus on user-centered design from the beginning.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I were to revise one part, I would expand on the scalability section. I would provide more technical examples related to load balancing and optimizing database performance to better future-proof the application.
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I interpreted the user’s needs by focusing on simplicity, responsiveness, and consistent gameplay across different platforms. Considering user needs is crucial because it ensures the software is intuitive, engaging, and meets real-world expectations, which increases user satisfaction and product success.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I used a modular, scalable, and layered approach, applying design patterns like MVC (Model-View-Controller) to separate concerns. In future projects, I would incorporate more user research early on and continue using strategies like modular design, agile iterations, and frequent testing to create robust, user-centered applications.
+
+
