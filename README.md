@@ -67,4 +67,15 @@ I interpreted the user’s needs by focusing on simplicity, responsiveness, and 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 I used a modular, scalable, and layered approach, applying design patterns like MVC (Model-View-Controller) to separate concerns. In future projects, I would incorporate more user research early on and continue using strategies like modular design, agile iterations, and frequent testing to create robust, user-centered applications.
 
+# README Update
 
+Project Reflection
+
+Ensuring Code Functionality and Security
+To make sure my code and software are functional and secure, I follow a combination of testing and best practices. I write unit tests for each component to verify that the code behaves as expected and performs under different scenarios. I also review the code for common security issues, validate inputs, and follow secure coding standards to prevent vulnerabilities. Code reviews and automated testing pipelines further help catch potential problems before deployment.
+
+Interpreting User Needs
+Understanding user needs is critical to building useful software. I achieve this by reviewing requirements documents, asking clarifying questions, and sometimes creating user stories or scenarios. Once I understand what users expect, I incorporate those needs into the program through clear features, intuitive interfaces, and workflows that match real-world usage. This ensures that the software solves actual problems and meets the intended goals.
+
+Approach to Designing Software
+When designing software, I follow a structured process that includes analyzing requirements, modeling the system (using UML diagrams, for example), and planning how different components will interact. I consider modularity, scalability, and maintainability to make the system easier to extend or update in the future. Iterative design and prototyping also allow me to adjust the system based on testing results or user feedback, ensuring a practical and reliable final product.
