@@ -79,3 +79,22 @@ Understanding user needs is critical to building useful software. I achieve this
 
 Approach to Designing Software
 When designing software, I follow a structured process that includes analyzing requirements, modeling the system (using UML diagrams, for example), and planning how different components will interact. I consider modularity, scalability, and maintainability to make the system easier to extend or update in the future. Iterative design and prototyping also allow me to adjust the system based on testing results or user feedback, ensuring a practical and reliable final product.
+
+# README Update  
+
+Project Reflection: DriverPass
+
+Project Summary
+The DriverPass project was a system design assignment for a client seeking a platform to manage driving lessons and student information. The client wanted a system that would allow students to schedule lessons, instructors to manage availability, and administrators to oversee operations efficiently.
+
+Strengths
+I believe I did particularly well in clearly documenting the business requirements and translating them into a structured system design. My UML diagrams and process models effectively illustrated how the system would function and interact with different users.
+
+Areas for Improvement
+If I were to revise one part of my work, I would refine the sequence diagrams to include more detailed error-handling and edge cases. This would improve clarity and make the design more robust in anticipating potential issues.
+
+Interpreting User Needs
+I interpreted the user’s needs by carefully reviewing the client’s requirements, asking clarifying questions, and creating use cases and workflows that reflected real-world processes. Considering user needs is critical because a system that doesn’t align with how people actually use it can lead to inefficiencies or frustration.
+
+Approach to Designing Software
+I approach software design by analyzing requirements, modeling the system with UML diagrams, and planning interactions between components. In future projects, I would continue using techniques like prototyping, iterative design, and stakeholder feedback to ensure the system is practical, scalable, and meets user expectations.
