@@ -98,3 +98,19 @@ I interpreted the user’s needs by carefully reviewing the client’s requireme
 
 Approach to Designing Software
 I approach software design by analyzing requirements, modeling the system with UML diagrams, and planning interactions between components. In future projects, I would continue using techniques like prototyping, iterative design, and stakeholder feedback to ensure the system is practical, scalable, and meets user expectations.
+
+# README Update  
+
+CS340 Portfolio Reflection
+
+Writing Maintainable, Readable, and Adaptable Programs
+
+I write maintainable and adaptable programs by organizing my code into smaller sections, using clear names, and avoiding unnecessary repetition. In this project, I created a CRUD Python module to connect to the MongoDB database. This allowed me to separate database operations from the dashboard code. Instead of writing database queries directly into every dashboard component, I could reuse the same module to create, read, update, and delete records. This made the code easier to understand, test, and maintain. In the future, I could reuse this module in other Python applications that need to interact with MongoDB databases.
+
+Approaching Problems as a Computer Scientist
+
+When approaching a problem as a computer scientist, I start by understanding the client's requirements and breaking the problem into smaller, manageable tasks. For the Grazioso Salvare project, I needed to connect the animal shelter database to a dashboard that would help users identify animals based on specific rescue criteria. I worked through the database connection, CRUD functionality, queries, and dashboard components before testing the application. Compared with some previous assignments, this project required me to bring several concepts together into one working application. In future projects, I would continue to review the client's needs carefully, plan the database structure, develop reusable code, and test each component before putting everything together.
+
+The Importance of Computer Science
+
+Computer scientists solve problems by designing software and systems that help people work more efficiently with information. Their work matters because organizations rely on accurate data and useful applications to make decisions. The dashboard I developed for Grazioso Salvare provides a way to view and filter animal shelter records instead of requiring users to search through database documents manually. This could help the organization identify animals that meet particular rescue requirements and make the information easier to understand. Projects like this demonstrate how software can turn raw data into a practical tool that supports an organization's goals.
